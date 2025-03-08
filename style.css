@@ -98,3 +98,12 @@
     font-style: normal;
     font-size: 24px;
 }
+footer{
+    width: 100vw;
+    height: 6vh;
+    background-color: #1f2937;
+    color:#f9faf8;
+    font-weight: 200;
+    text-align: center;
+    padding-top:10px;
+}
