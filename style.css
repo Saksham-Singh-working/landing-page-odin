@@ -24,3 +24,28 @@
     margin-right: auto;
     margin-left:7%;
 }
+.intro{
+    padding:100px;
+}
+.intro > span{
+    font-size:48px;
+    color:#f9faf8;
+    font-weight: 900;
+}
+.intro > p{
+    color: #e5e7eb8a;
+    font-size: 18px;
+}
+.intro > button{
+    background-color: #3882f6;
+    border-radius: 10px;
+    color:#f9faf8;
+    font-weight: 700;
+    width:120px;
+    height: 40px;
+    border:none;
+}
+.intro > img{
+    float:right;
+    margin-right: 80px;
+}
